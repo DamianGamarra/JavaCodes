@@ -1,0 +1,6 @@
+# archivos ocultos
+.*
+!/.gitignore
+
+#carpetas out
+./PersonalPractice/out
